@@ -1,0 +1,2 @@
+Uso para autocompletar texto 
+Tambien le pedi que el precio aparezca en precio chileno pero me da error el copilot(unhandled status from server: 400 {"error":{"message":"The requested model is not supported.","code":"model_not_supported","param":"model","type":"invalid_request_error"}})
